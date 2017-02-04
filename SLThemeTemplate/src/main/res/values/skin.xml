@@ -33,7 +33,7 @@
     <integer name="drawer_background">0xffffffff</integer>
 
     <!-- Color of the text for the app grid title -->
-    <integer name="drawer_titlecolor">0x00000000</integer>
+    <integer name="drawer_titlecolor">0xff000000</integer>
 
     <!-- Color and shadow for the icon text in the app grid -->
     <integer name="icon_textcolor">0xff000000</integer>

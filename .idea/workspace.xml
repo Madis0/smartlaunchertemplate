@@ -7,18 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4b5d5e7-fc63-45ca-9de0-6be31a853081" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_dial.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_message.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_photo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/act_picture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/wall0.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" afterPath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
     </list>
     <ignored path="smartlaunchertemplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,11 +53,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cat_selected_l.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cat_selected_l.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clock.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skin.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -1760,11 +1772,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/theme.xml" />
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
       </list>
     </option>
   </component>
@@ -1823,27 +1836,9 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="smartlaunchertemplate" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SLThemeTemplate" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
+              <option name="myItemId" value="values" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="you_must_replace_all_the_files_in_this_folder.xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2196,7 +2191,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2219,7 +2214,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2415,13 +2410,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/theme.xml" />
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -2463,6 +2451,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/clock.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding />
         </state>
       </provider>
