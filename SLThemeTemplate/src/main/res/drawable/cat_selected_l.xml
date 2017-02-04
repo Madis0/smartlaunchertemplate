@@ -5,10 +5,7 @@
     <!--  This file draw the category's background when a category is selected (lefthanded mode).
     You can edit this file or you can replace it with a png (in this case, rename this file in cat_selected_l.png).-->
 
-    <item
-        android:bottom="-8dp"
-        android:right="-8dp"
-        android:top="-8dp">
+    <item android:right="4dp">
         <shape android:shape="rectangle">
 
             <!-- You can edit this tag to change the background color -->

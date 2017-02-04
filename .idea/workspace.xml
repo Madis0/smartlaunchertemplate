@@ -8,10 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b4b5d5e7-fc63-45ca-9de0-6be31a853081" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" afterPath="$PROJECT_DIR$/SLThemeTemplate/SLThemeTemplate.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml" afterPath="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml" />
     </list>
     <ignored path="smartlaunchertemplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,11 +42,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="skin.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml">
+      <file leaf-file-name="cat_selected.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="136">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cat_selected_l.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -1742,12 +1750,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml" />
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml" />
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml" />
-        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/theme.xml" />
         <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/skin.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml" />
+        <option value="$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml" />
       </list>
     </option>
   </component>
@@ -2259,11 +2267,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxxhdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/cat_weather.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2295,16 +2298,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxhdpi/act_add.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/wall0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/preview.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -2356,38 +2349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/values/theme.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -2400,6 +2361,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg_l.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-xxxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/wall0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable-nodpi/preview.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/catlist_bg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLThemeTemplate/src/main/res/drawable/cat_selected_l.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>
