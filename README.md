@@ -1,5 +1,9 @@
-# Smart Launcher Official Theme Template
+# Smart Launcher Material Theme
 
-You can use this template to create your own Smart Launcher theme. It contains an example of all the resources needed and a welcome activity that helps the user to apply your theme.
+I've made a Material Design theme for Smart Launcher 3/Smart Drawer.
 
-Contact us at support@smartlauncher.net for help/suggestions. 
+Inspired by [a concept flow from 2 years ago](https://plus.google.com/+MadisOtenurm/posts/ahSjvMvEA3T).
+
+Icons by [Google](https://material.io/icons/) and [Material Design Icons](https://materialdesignicons.com/) authors.
+
+[Download here](https://github.com/Madis0/smartlaunchertemplate/releases) (Play Store coming soon, [needs more refinements](https://github.com/Madis0/smartlaunchertemplate/issues) first)
