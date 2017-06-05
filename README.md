@@ -5,4 +5,4 @@ I've made a Material Design theme for Smart Launcher 3/Smart Drawer. Sorry, no A
 Inspired by [a concept flow from 2 years ago](https://plus.google.com/+MadisOtenurm/posts/ahSjvMvEA3T).
 Icons by [Google](https://material.io/icons/) and [Material Design Icons](https://materialdesignicons.com/) authors.
 
-Licensed by GPL 3.0, feel free to fork and republish.
+Licensed under GPL 3.0, feel free to fork and republish.
