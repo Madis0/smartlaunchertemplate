@@ -6,4 +6,4 @@ Inspired by [a concept flow from 2 years ago](https://plus.google.com/+MadisOten
 
 Icons by [Google](https://material.io/icons/) and [Material Design Icons](https://materialdesignicons.com/) authors.
 
-[Download here](https://github.com/Madis0/smartlaunchertemplate/releases) (Play Store coming soon, [needs more refinements](https://github.com/Madis0/smartlaunchertemplate/issues) first)
+Sorry, no APK download right now, just build from the source!
